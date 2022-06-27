@@ -1,7 +1,7 @@
+# LuckyBlock
 [![](https://poggit.pmmp.io/shield.state/LuckyBlock)](https://poggit.pmmp.io/p/LuckyBlock)
 [![](https://poggit.pmmp.io/shield.dl.total/LuckyBlock)](https://poggit.pmmp.io/p/LuckyBlock)
 
-# LuckyBlock
 ## Description
 It allows to define a block that will have various actions when broken as: custom drop (compatible with the enchantment of [PiggyCustomEnchants](https://poggit.pmmp.io/p/PiggyCustomEnchants)), given money (depends on [EconomyAPI](https://poggit.pmmp.io/p/EconomyAPI) or [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy)), command execution from the player or server, replaced the broken block by another block.
 
